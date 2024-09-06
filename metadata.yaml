@@ -1,0 +1,50 @@
+_repo: Creation-d-un-repertoire-bibliographique-universel-b-Conference-Bibliographique-International__74225
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: La Fontaine, Henri
+    aliases:
+    - Fontaine, Henri La
+    - Fontaine, H. La
+    - Fontaine, Henry La
+    birthdate: 1854
+    deathdate: 1943
+    gutenberg_agent_id: '57400'
+    url: http://www.gutenberg.org/2009/agents/57400
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Henri_La_Fontaine
+    - https://fr.wikipedia.org/wiki/Henri_La_Fontaine
+  - agent_name: Otlet, Paul
+    birthdate: 1868
+    deathdate: 1944
+    gutenberg_agent_id: '50172'
+    url: http://www.gutenberg.org/2009/agents/50172
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Otlet
+    - https://fr.wikipedia.org/wiki/Paul_Otlet
+description: ''
+gutenberg_issued: '2024-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74225'
+  lccn: '04012013'
+language: fr
+pgterms:marc905: 20190129072616lafontaine
+pgterms:marc906: '1895'
+pgterms:marc907: BE
+production_note: Susan Skinner and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Mundaneum and
+  mediated by the artists of Algolit, a research project initiated by Constant.)
+publication_note: '  $aBrussels :$bImprimerie Veuve Ferdinand Larcier, $c1895, pubdate
+  1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Classification, Decimal'
+- !lcsh 'Universal bibliography'
+- !lcc 'Z'
+- GITenberg
+title: 'Création d''un répertoire bibliographique universel : $b Conférence Bibliographique
+  Internationale, 1895, publication no. 1'
+url: http://www.gutenberg.org/ebooks/74225
