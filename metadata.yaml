@@ -1,5 +1,8 @@
 _repo: Creation-d-un-repertoire-bibliographique-universel-b-Conference-Bibliographique-International__74225
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74225-h/images/cover.jpg
 creator:
   authors:
   - agent_name: La Fontaine, Henri
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Otlet
     - https://fr.wikipedia.org/wiki/Paul_Otlet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74225#Creation-d-un-repertoire-bibliographique-universel-b-Conference-Bibliographique-International_
 gutenberg_issued: '2024-08-10'
 gutenberg_type: Text
 identifiers:
